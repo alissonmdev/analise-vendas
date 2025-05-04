@@ -1,0 +1,11 @@
+id_cliente,nome,email,cidade
+1,Cliente 1,cliente1@email.com,Curitiba
+2,Cliente 2,cliente2@email.com,Curitiba
+3,Cliente 3,cliente3@email.com,Curitiba
+4,Cliente 4,cliente4@email.com,Recife
+5,Cliente 5,cliente5@email.com,Curitiba
+6,Cliente 6,cliente6@email.com,Curitiba
+7,Cliente 7,cliente7@email.com,São Paulo
+8,Cliente 8,cliente8@email.com,Curitiba
+9,Cliente 9,cliente9@email.com,Curitiba
+10,Cliente 10,cliente10@email.com,Rio de Janeiro
